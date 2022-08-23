@@ -1,0 +1,61 @@
+
+
+
+
+body {
+    background-color: lightgray;
+}
+
+
+h1 {
+    text-align: center;
+    color: black;
+    font-family: 'Space Mono';
+    font-size: 300%;
+    font-weight: bold;
+    margin: 50px auto;
+
+}
+h2 {
+    text-align: center;
+    color: black;
+    font-family:'Space Mono';
+    font-size: 200%;
+    font-weight: bold;
+    margin: 50px auto;
+}
+
+table {
+    font-family: 'Space Mono';
+    font-size: 105%;
+    
+    margin: auto;
+    border: 1px solid black;
+}
+
+
+th {
+    
+    padding: 4px 4px;
+    text-align: left;
+    margin: 0px;
+    background-color: pink;
+    font-weight: bold;
+    border: 2px solid black;
+}
+td {
+    
+    padding: 5px 10px;
+
+}
+.element {
+    background-color: white;
+    color: red;
+}
+.definition1 {
+    background-color: white;
+}
+.definition2 {
+    background-color: rgba(197, 246, 197, 0.35);
+    
+}
